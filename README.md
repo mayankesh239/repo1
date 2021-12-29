@@ -7,7 +7,7 @@
 TIC-TAC-TOE GAME
 
 ## Link: 
-https://theottplatform.netlify.app/
+https://tic-tac-toe-ak2d9yc1g-mayankesh239.vercel.app/
 
 ### Built With
 
