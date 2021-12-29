@@ -7,7 +7,7 @@
 TIC-TAC-TOE GAME
 
 ## Link: 
-https://tic-tac-toe-ak2d9yc1g-mayankesh239.vercel.app/
+https://tic-tac-toe-one-rouge.vercel.app/
 
 ### Built With
 
