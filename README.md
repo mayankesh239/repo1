@@ -1,4 +1,4 @@
-# OTT-Platform
+# TIC-TAC-TOE 
 
 
 <!-- ABOUT THE PROJECT -->
