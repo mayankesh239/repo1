@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("../images/background.jpg");
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5%;
+}
+
+.grid {
+  display: grid;
+  grid-gap: 1px;
+  grid-template-columns: repeat(3, 100px);
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  font-size: 5rem;
+  color: #ffffff;
+  border: solid 1px black;
+}
+
+.square_o {
+  background-color: rgb(87, 218, 21);
+}
+
+.square_x {
+  background-color: crimson;
+}
+
+.reset {
+  margin-top: 2rem;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  background-color: rgb(15, 10, 94);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-top: 0.2%;
+  padding-bottom: 0.2%;
+  cursor: pointer;
+}
+
+p {
+  font-size: 2.3rem;
+  color: white;
+}
